@@ -5,9 +5,10 @@ Aplicação de controle de metas
 • CTS (Comon table expressions)
 • Fetch dados e formulários
 
-# Dependencias
+# Tools-
 • typescript
 • fastify
+• Biome
 
 
 NLW 1: 15:01

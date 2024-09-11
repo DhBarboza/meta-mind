@@ -9,6 +9,7 @@ Aplicação de controle de metas
 • typescript
 • fastify
 • Biome
+• Drizzle ORM
 
 
 NLW 1: 15:01

@@ -12,4 +12,4 @@ Aplicação de controle de metas
 • Drizzle ORM
 
 
-NLW 1: 15:01
+NLW 1: 30:30

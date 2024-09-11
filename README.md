@@ -14,4 +14,4 @@ Aplicação de controle de metas
 • ParallelDrive/cuid2
 
 
-NLW 1: 30:30
+NLW 1: 48:10

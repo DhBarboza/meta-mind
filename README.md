@@ -10,6 +10,7 @@ Aplicação de controle de metas
 • fastify
 • Biome
 • Drizzle ORM
+• Zod
 
 
 NLW 1: 30:30

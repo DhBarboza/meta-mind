@@ -11,6 +11,7 @@ Aplicação de controle de metas
 • Biome
 • Drizzle ORM
 • Zod
+• ParallelDrive/cuid2
 
 
 NLW 1: 30:30

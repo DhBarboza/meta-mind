@@ -1,0 +1,4 @@
+- Cadastrar meta
+- Marcar meta como concluída
+- Obter metas concluídas
+- Obter metas não-concluídas

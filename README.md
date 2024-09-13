@@ -12,6 +12,7 @@ Aplicação de controle de metas
 • Drizzle ORM
 • Zod
 • ParallelDrive/cuid2
+• Dayjs
 
 
-NLW 1: 48:10
+NLW 1: 01:06:39
